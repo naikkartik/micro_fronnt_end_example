@@ -3,7 +3,7 @@
 This file is a simple test document to trigger CI/workflow runs and to provide a short description about Artificial Intelligence.
 
 ## What is AI?
-Error Intelligence (AI) refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. Common examples include language models, computer vision systems, recommendation engines, and autonomous agents.
+Artificial Intelligence (AI) refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. Common examples include language models, computer vision systems, recommendation engines, and autonomous agents.
 
 ## Why test a workflow with this file?
 - Simple, small change that can be used to validate repository workflows (CI/CD, linters, or other checks).
